@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StartGame.unity
     guid: 2fcd74fd3f56fff4191ebf99c31319a0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Nivel01.unity
     guid: 3b1de8e5dc6b0f644acdb9283e84108d
+  - enabled: 1
+    path: Assets/Scenes/PlaneTracking01.unity
+    guid: 82a2409ca51c2054c9899f5da0b44621
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6b26e162efb79bc4d9aa7f1f006cc7b7, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f1e1a02685366dd498ebdb652477a74c, type: 2}
